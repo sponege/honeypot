@@ -8,7 +8,7 @@
 #include <time.h>
 
 #define portMin 0
-#define portMax 65535
+#define portMax 1024
 #define CHUNK_MAX_SIZE 1024
 
 struct connection {
